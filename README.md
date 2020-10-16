@@ -6,9 +6,7 @@ Requirements:
 - Python >= 3.6
 
 In the project directory, you can run:
-```
-npm start
-```
+### `npm start`
 
 This will install all the python and nodejs dependencies.
 It will also initiate the app in dev mode at the following locations:
